@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**matteo-bombelli/matteo-bombelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Matteo Bombelli**, Frontend developer, working remotely, from Novara, Italy
 
-Here are some ideas to get you started:
+I am working for [VLC2](https://www.vlc2.com/) and as a consultant for 
+[Deltatre](https://www.deltatre.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the last years I've been working mainly with **React** on **Typescript**.
+
+This repositories are not part of my job, only for fun/exercise.
+
+You can contact me on
+
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteobombellisid)
