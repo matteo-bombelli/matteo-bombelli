@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am **Matteo Bombelli**, Frontend developer, working remotely, from Novara, Italy
+I am **Matteo Bombelli**, Senior Frontend developer, working remotely, from Padova, Italy
 
 I am working for [VLC2](https://www.vlc2.com/) and as a consultant for 
 [Deltatre](https://www.deltatre.com/)
