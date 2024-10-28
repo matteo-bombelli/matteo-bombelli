@@ -2,10 +2,7 @@
 
 I am **Matteo Bombelli**, Senior Frontend developer, working remotely, from Padova, Italy
 
-I am working for [VLC2](https://www.vlc2.com/) and as a consultant for 
-[Deltatre](https://www.deltatre.com/)
-
-In the last years I've been working mainly with **React** on **Typescript**.
+I am working for [Globant](https://www.globant.com/it), in the last years I've been working mainly with **React** on **Typescript** to build Streaming Libraries and apps for web, SmartTV (Samsung Tizen, LG WebOs, Hisense VIDAA, ecc) and consoles (XBOX, PS5)
 
 This repositories are not part of my job, only for fun/exercise.
 
